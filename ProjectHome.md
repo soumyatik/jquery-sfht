@@ -1,0 +1,1 @@
+This jQuery plugin allows HTML tables to be scrollable horizontally and vertically while headers are still visible and in tack with the columns
